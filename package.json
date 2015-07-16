@@ -1,0 +1,26 @@
+{
+  "name": "StudyModulesPlanner",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjaminaaron/StudyModulesPlanner"
+  },
+  "keywords": [
+    "study",
+    "planner"
+  ],
+  "author": "benjaminaaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminaaron/StudyModulesPlanner/issues"
+  },
+  "homepage": "https://github.com/benjaminaaron/StudyModulesPlanner",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  }
+}
