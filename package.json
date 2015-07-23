@@ -21,6 +21,7 @@
   "homepage": "https://github.com/benjaminaaron/StudyModulesPlanner",
   "dependencies": {
     "express": "*",
-    "socket.io": "*"
+    "socket.io": "*",
+    "prompt": "*"
   }
 }
