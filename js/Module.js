@@ -1,6 +1,7 @@
 
-var Module = function(){
-
+var Module = function(title, credits){
+	this.title = title;
+	this.credits = credits;
 }
 
 Module.prototype = {
